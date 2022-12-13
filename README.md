@@ -31,6 +31,9 @@ Aplikacja MedLinkGuard łączy się poprzez Bluetooth z pilotem MedLink odbieraj
 
 - Aplikacja posiada funkcję przesyłania informacji o poziomie cukru na stronę Nightscout ([http://nightscout.pl/instalacja/heroku/](http://nightscout.pl/instalacja/heroku/))  
   
+  
+
+### **Przegląd wszystkich funkcji i możliwości aplikacji można zobaczyć na zrzucie ekranu: [Aplikacja Po Rozwinięciu Menu - zrzut ekranu](https://raw.githubusercontent.com/paweltota/MedLinkGuard/main/ZrzutyEkranu/002-aplikacjaPoRozwinieciuMenu.jpg)**
 
 ### **Wyświetlane poziomy glikemii mają na stałe przypisane kolory wg schematu:**  
   
