@@ -47,7 +47,7 @@ Aplikacja MedLinkGuard łączy się poprzez Bluetooth z pilotem MedLink odbieraj
 - 160-179 pomarańczowy  
   
 
-- />180 czerwony  
+- \>180 czerwony  
   
 
 ****  
@@ -88,7 +88,7 @@ Enlite sniffer 868MHz last EN version extra.s19 (autor: Sławomir Malinowski) (m
 ## **Opis wybranych funkcji aplikacji**  
   
 
-****  
+  
   
 
 ### **PASEK GÓRNY**  
@@ -218,57 +218,3 @@ http://nightscout.pl/
   
 
 <br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-  
-
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
