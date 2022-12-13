@@ -10,9 +10,8 @@ Aplikacja MedLinkGuard łączy się poprzez Bluetooth z pilotem MedLink odbieraj
 <img src="https://raw.githubusercontent.com/paweltota/MedLinkGuard/main/Media/TransmisjaDanych.png" align="left" style="width: 100%" />  
   
 
-**
 
-**  
+
   
 
 **<div align="center">Aplikacja MedLinkGuard może działać bez dostępu do internetu. </div>**  
@@ -48,7 +47,7 @@ Aplikacja MedLinkGuard łączy się poprzez Bluetooth z pilotem MedLink odbieraj
 - 160-179 pomarańczowy  
   
 
-- >180 czerwony  
+- />180 czerwony  
   
 
 ****  
