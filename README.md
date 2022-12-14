@@ -191,17 +191,22 @@ Z moich obserwacji wynika, iż najtrudniejsza jest pierwsza doba, kiedy to bardz
 ### **Informacje dodatkowe:**  
   
 
-Więcej o sensorach Enlite np. tutaj:  
-  
+Więcej o <b>sensorach Enlite</b> np. tutaj:  
 
 https://diabetyk24.pl/sensor-elektroda-enlite-do-monitorowania-glukozy-1-szt  
   
-
-Więcej o nadajniku MiniLink (firmy Medtronic) np. tutaj:  
+ <br/>  
   
+Więcej o <b>nadajniku MiniLink</b> (firmy Medtronic) np. tutaj:  
 
 https://diabetyk24.pl/refundacja-nfz-transmiter-minilink-mmt-7703ww-1-szt  
+
+<br/>  
   
+<b>MedLink</b> to urządzenie, które można samemu zbudować na podstawie projektu.
+Więcej informacji tutaj: Wersja większa (v4): https://github.com/sarunia/Med-Link-v4 oraz mniejsza wersja urządzenia (v5): https://github.com/sarunia/Med-Link-v5
+
+Jest też grupa na Facebook'u: ([MED-LINK pilot i uploader Nightscout dla pomp Medtronic Veo i 722](https://www.facebook.com/groups/492021978253801))
 
 ****  
   
