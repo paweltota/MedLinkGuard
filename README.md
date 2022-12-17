@@ -160,25 +160,6 @@ Enlite sniffer 868MHz last EN version extra.s19 (autor: Sławomir Malinowski) (m
 ****  
   
 
-### **USTAWIENIA**  
-  
-
-#### **Strona Nightscout – API secret (hasło)**  
-  
-
-Aby zapisać w aplikacji hasło do strony Nightscout należy go najpierw zakodować.
-Można to zrobić np. na stronie: http://www.sha1-online.com/  
-  
-
-W formularzu należy wpisać hasło i kliknąć przycisk "hash", skopiować ciąg znaków w linii „Result for sha1:”, po czym wrócić do aplikacji i wkleić w miejscu hasła.  
-  
-
-<img src="https://raw.githubusercontent.com/paweltota/MedLinkGuard/main/Media/WWWhaslo.png" align="left" style="width: 100%" />  
-  
-
-****  
-  
-
 ### **KALIBRACJA**  
   
 
