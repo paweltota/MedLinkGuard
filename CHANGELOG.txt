@@ -1,1 +1,9 @@
+MedLinkGuard
 
+16.12.2022
+Version 1.02.01
+- usunięto konieczność kodowania hasła do strony Nightscout'a
++ dodano funkcję kodującą hasło do strony Nighscout'a.
+
+12.12.2022
+Version 1
